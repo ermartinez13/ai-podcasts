@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>AI Fortnight</title>
+<link>https://ermartinez13.github.io/ai-podcasts/</link>
+<description>Twice-weekly audio companion to the AI Fortnight digest: the models, tools, protocols and practices that change how you build with coding agents. Hosts Maya and Sam; voices generated with the open-source Kokoro model.</description>
+<language>en-us</language>
+<atom:link href="https://ermartinez13.github.io/ai-podcasts/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:image href="https://ermartinez13.github.io/ai-podcasts/cover.png"/>
+<image><url>https://ermartinez13.github.io/ai-podcasts/cover.png</url><title>AI Fortnight</title><link>https://ermartinez13.github.io/ai-podcasts/</link></image>
+<itunes:author>AI Fortnight</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Technology"/>
+<itunes:block>Yes</itunes:block>
+<item>
+<title>AI Fortnight: Oct 18, 2026 (update)</title>
+<description>AI Fortnight, the podcast: the Sunday update, October 18, 2026</description>
+<enclosure url="https://ermartinez13.github.io/ai-podcasts/episodes/ai-fortnight-2026-10-18-pm.mp3" length="3309975" type="audio/mpeg"/>
+<guid isPermaLink="false">ai-fortnight-2026-10-18-pm.mp3</guid>
+<pubDate>Sun, 18 Oct 2026 17:00:00 +0000</pubDate>
+<itunes:duration>412</itunes:duration>
+</item>
+<item>
+<title>AI Fortnight: Oct 18, 2026</title>
+<description>AI Fortnight, the podcast: what&#x27;s new, October 11 to 18, 2026</description>
+<enclosure url="https://ermartinez13.github.io/ai-podcasts/episodes/ai-fortnight-2026-10-18.mp3" length="4617948" type="audio/mpeg"/>
+<guid isPermaLink="false">ai-fortnight-2026-10-18.mp3</guid>
+<pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
+<itunes:duration>576</itunes:duration>
+</item>
+<item>
+<title>AI Fortnight: Oct 11, 2026</title>
+<description>AI Fortnight, the podcast: September 27 to October 11, 2026</description>
+<enclosure url="https://ermartinez13.github.io/ai-podcasts/episodes/ai-fortnight-2026-10-11.mp3" length="10250368" type="audio/mpeg"/>
+<guid isPermaLink="false">ai-fortnight-2026-10-11.mp3</guid>
+<pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+<itunes:duration>853</itunes:duration>
+</item>
+</channel>
+</rss>
