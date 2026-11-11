@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Lab Notes</title>
+<link>https://ermartinez13.github.io/ai-podcasts/lab-notes/</link>
+<description>Weekly deep reads of the best engineering and research posts from the frontier AI labs, for developers who build with coding agents. Published Tuesdays by the makers of AI Fortnight. Hosts Maya and Sam; voices generated with the open-source Kokoro model.</description>
+<language>en-us</language>
+<atom:link href="https://ermartinez13.github.io/ai-podcasts/lab-notes/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:image href="https://ermartinez13.github.io/ai-podcasts/lab-notes/cover.png"/>
+<image><url>https://ermartinez13.github.io/ai-podcasts/lab-notes/cover.png</url><title>Lab Notes</title><link>https://ermartinez13.github.io/ai-podcasts/lab-notes/</link></image>
+<itunes:author>Lab Notes</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Technology"/>
+<itunes:block>yes</itunes:block>
+<item>
+<title>Lab Notes: Nov 10, 2026</title>
+<description>Lab Notes, episode one: the best lab posts of August 10 to November 10, 2026&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop&quot;&gt;Anthropic: Building agents: When to fold subagents into your main agent loop (Oct 22)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://cursor.com/blog/improved-token-efficiency&quot;&gt;Cursor: Improved token efficiency for longer agent runs (Sep 23)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/&quot;&gt;Google Developers Blog: Cost per task (Nov 3)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/research/components-of-agent-memory&quot;&gt;Anthropic: The components of agent memory (Nov 6)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/research/redesigning-source-control&quot;&gt;Anthropic: Redesigning source control at Anthropic (Oct 13)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://openai.com/index/scaling-git-at-openai/&quot;&gt;OpenAI: Scaling Git at OpenAI (Nov 2)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://openai.com/index/how-we-detect-frontier-model-misalignment&quot;&gt;OpenAI: How we detect frontier model misalignment (Oct 29)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://x.ai/news/designing-grok-bot&quot;&gt;xAI: Designing Grok Bot for a world of persistent agents (Sep 3)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+<enclosure url="https://ermartinez13.github.io/ai-podcasts/lab-notes/episodes/lab-notes-2026-11-10.mp3" length="14008749" type="audio/mpeg"/>
+<guid isPermaLink="false">lab-notes-2026-11-10.mp3</guid>
+<pubDate>Tue, 10 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:duration>1751</itunes:duration>
+</item>
+</channel>
+</rss>
