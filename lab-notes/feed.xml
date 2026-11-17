@@ -13,6 +13,14 @@
 <itunes:category text="Technology"/>
 <itunes:block>yes</itunes:block>
 <item>
+<title>Lab Notes: Nov 17, 2026</title>
+<description>Lab Notes: November 10 to 16, 2026&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://claude.com/resources/articles/building-always-on-agents&quot;&gt;Anthropic: Building always-on agents (Nov 13)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/&quot;&gt;Google Developers Blog: Agents are sessions, not requests (Nov 16)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/research/building-strong-safety-evaluations&quot;&gt;Anthropic: Building strong safety evaluations (Nov 13)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+<enclosure url="https://ermartinez13.github.io/ai-podcasts/lab-notes/episodes/lab-notes-2026-11-17.mp3" length="5896365" type="audio/mpeg"/>
+<guid isPermaLink="false">lab-notes-2026-11-17.mp3</guid>
+<pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:duration>737</itunes:duration>
+</item>
+<item>
 <title>Lab Notes: Nov 10, 2026</title>
 <description>Lab Notes, episode one: the best lab posts of August 10 to November 10, 2026&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop&quot;&gt;Anthropic: Building agents: When to fold subagents into your main agent loop (Oct 22)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://cursor.com/blog/improved-token-efficiency&quot;&gt;Cursor: Improved token efficiency for longer agent runs (Sep 23)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/&quot;&gt;Google Developers Blog: Cost per task (Nov 3)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/research/components-of-agent-memory&quot;&gt;Anthropic: The components of agent memory (Nov 6)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/research/redesigning-source-control&quot;&gt;Anthropic: Redesigning source control at Anthropic (Oct 13)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://openai.com/index/scaling-git-at-openai/&quot;&gt;OpenAI: Scaling Git at OpenAI (Nov 2)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://openai.com/index/how-we-detect-frontier-model-misalignment&quot;&gt;OpenAI: How we detect frontier model misalignment (Oct 29)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://x.ai/news/designing-grok-bot&quot;&gt;xAI: Designing Grok Bot for a world of persistent agents (Sep 3)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
 <enclosure url="https://ermartinez13.github.io/ai-podcasts/lab-notes/episodes/lab-notes-2026-11-10.mp3" length="14008749" type="audio/mpeg"/>
