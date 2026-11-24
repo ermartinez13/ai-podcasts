@@ -13,6 +13,14 @@
 <itunes:category text="Technology"/>
 <itunes:block>yes</itunes:block>
 <item>
+<title>Lab Notes: Nov 24, 2026</title>
+<description>Lab Notes: November 17 to 23, 2026&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/&quot;&gt;Google Developers Blog: Did the user ask for this? Securing AI agents against intent hijacking (Nov 23)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://openai.com/index/inside-the-codex-sandbox/&quot;&gt;OpenAI: Inside the Codex sandbox (Nov 18)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents&quot;&gt;Anthropic: The enterprise guide to securing coding agents (Nov 23)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://claude.dev/blog/chaos-loop-claude-docs-launch/&quot;&gt;Anthropic: Using a chaos loop to harden the Claude Docs launch (Nov 17)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+<enclosure url="https://ermartinez13.github.io/ai-podcasts/lab-notes/episodes/lab-notes-2026-11-24.mp3" length="6860589" type="audio/mpeg"/>
+<guid isPermaLink="false">lab-notes-2026-11-24.mp3</guid>
+<pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:duration>857</itunes:duration>
+</item>
+<item>
 <title>Lab Notes: Nov 17, 2026</title>
 <description>Lab Notes: November 10 to 16, 2026&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://claude.com/resources/articles/building-always-on-agents&quot;&gt;Anthropic: Building always-on agents (Nov 13)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/&quot;&gt;Google Developers Blog: Agents are sessions, not requests (Nov 16)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/research/building-strong-safety-evaluations&quot;&gt;Anthropic: Building strong safety evaluations (Nov 13)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
 <enclosure url="https://ermartinez13.github.io/ai-podcasts/lab-notes/episodes/lab-notes-2026-11-17.mp3" length="5896365" type="audio/mpeg"/>
