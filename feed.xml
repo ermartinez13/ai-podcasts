@@ -13,6 +13,14 @@
 <itunes:category text="Technology"/>
 <itunes:block>yes</itunes:block>
 <item>
+<title>AI Fortnight: Nov 25, 2026</title>
+<description>AI Fortnight, the podcast: what&#x27;s new, November 22 to 25, 2026</description>
+<enclosure url="https://ermartinez13.github.io/ai-podcasts/episodes/ai-fortnight-2026-11-25.mp3" length="3973143" type="audio/mpeg"/>
+<guid isPermaLink="false">ai-fortnight-2026-11-25.mp3</guid>
+<pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
+<itunes:duration>495</itunes:duration>
+</item>
+<item>
 <title>AI Fortnight: Nov 22, 2026</title>
 <description>AI Fortnight, the podcast: what&#x27;s new, November 18 to 22, 2026</description>
 <enclosure url="https://ermartinez13.github.io/ai-podcasts/episodes/ai-fortnight-2026-11-22.mp3" length="3463767" type="audio/mpeg"/>
